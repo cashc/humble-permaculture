@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Humble Permaculture
-email: cashscompton@gmail.com
+# email: cashscompton@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Permaculture design consultations by donation.
 instagram_username: what.is.waste
@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
 include:
   - /public/
+footer_description: "\"We must practice humility and accept that we are not greater than the salmon, the beaver, or the trees- in fact, they have much to teach us.\" –Cash" 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
