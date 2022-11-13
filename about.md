@@ -6,7 +6,9 @@ permalink: /about/
 
 Humble Permaculture is a design consultation business founded by Cash Compton in 2022.
 
-Cash's credentials include:
+<img src="/public/cash-avatar.jpg" style="border-radius: 70px; max-width: 200px;" />
+
+Cash's credentials and relevant work experience includes:
 - Holistic Sustainability Semester at Lost Valley Education Center - Dexter, OR
   - Permaculture Design Certificate (PDC)
   - Ecovillage Design Education (EDE)
