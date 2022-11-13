@@ -4,7 +4,10 @@ title: ""
 ---
 <script src="index-script.js" defer="true"></script>
 
+⚠️ Website in beta version
+
 # Humble Permaculture Design
+
 
 <div class="expand">
   <div class="button">
