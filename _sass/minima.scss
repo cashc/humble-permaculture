@@ -64,15 +64,22 @@ $on-laptop: 800px !default;
   color: $grey-color;
 }
 
-.section-header {
-  font-size: 17px;
-  font-weight: 400;
-  margin-bottom: 3px;
-}
-
-.section {
+.expand {
   background-color: $grey-color-light;
-  padding: 10px;
+  
+  .button {
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 10px;
+  }
+  
+  .content {
+    margin: 3px 10px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 150ms ease-out;
+  }
 }
 
 // Import partials.
