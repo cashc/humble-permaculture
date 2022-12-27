@@ -18,6 +18,7 @@ $brand-color: #2a7ae2 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-lighter: lighten($grey-color, 45%) !default;
 $grey-color-dark: darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
@@ -75,10 +76,12 @@ $on-laptop: 800px !default;
   }
   
   .content {
-    margin: 3px 10px;
+    margin: 3px 0;
+    padding: 0 10px;
     max-height: 0;
     overflow: hidden;
     transition: max-height 150ms ease-out;
+    background-image: linear-gradient($grey-color-light, $grey-color-lighter);
   }
 }
 

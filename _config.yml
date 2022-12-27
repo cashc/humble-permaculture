@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
 include:
   - /public/
-footer_description: "\"We must practice humility and accept that we are not greater than the salmon, the beaver, or the trees- in fact, they have much to teach us.\" –Cash" 
+footer_description: "\"We must practice humility and accept that we are not greater than the salmon, the beaver, or the trees. We must learn from nature how to be human once again.\" –Cash" 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
